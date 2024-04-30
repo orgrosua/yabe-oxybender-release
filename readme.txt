@@ -1,10 +1,10 @@
 === Yabe Oxybender ===
 Contributors: suabahasa, rosua
 Donate link: https://ko-fi.com/Q5Q75XSF7
-Tags: oxygen builder
+Tags: oxygen builder, tailwind css
 Requires at least: 6.0
 Tested up to: 6.5
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 7.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -52,6 +52,9 @@ Visit the [GitHub repository](https://github.com/orgrosua/yabe-oxybender) to get
 
 
 == Changelog ==
+
+= 1.0.2 =
+* **Improve**: Reduce the size of plugin file.
 
 = 1.0.1 =
 * **Fixed**: Added classes are not persist when switching between elements.
